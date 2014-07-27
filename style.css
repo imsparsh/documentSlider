@@ -1,0 +1,20 @@
+img#backimg:hover {
+    opacity:1; 
+	}
+#backimg{
+    opacity: 0.7;
+}
+
+#backtop
+{
+position: fixed; 
+bottom: 20%; 
+left:90%;	
+background-color:transparent; 
+z-index: 1000;
+}
+
+body
+{
+min-height:2000px;
+}
