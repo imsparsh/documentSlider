@@ -14,4 +14,7 @@ Created by Sparsh Gupta. [Contact Me](mailto:sparsh025@yahoo.com) for more info 
 #backtop.js
 
 $(window).scroll(function()) // executes the function on window scrolling.. 
+
 $(window).scrollTop() // returns the scroll value from the top.. 
+
+//////////////////////////////////////////////////////////////////////
